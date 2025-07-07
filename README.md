@@ -13,5 +13,4 @@
 ---
 
 ![Alzamna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alzamna&show_icons=true&theme=radical)
-![snake gif](https://raw.githubusercontent.com/<Alzamna>/<Alzamna>/output/github-contribution-grid-snake.svg)
 
