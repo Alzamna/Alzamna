@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Alzamna!
 
-<!--
-**Alzamna/Alzamna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Student passionate about web programming and technology.
+- 💻 Skilled in **Laravel** (PHP) and **Python** for web development.
+- 🌱 tryna get better
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** PHP, Python, JavaScript
+- **Frameworks:** Laravel, Flask
+- **Tools:** Git, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Alzamna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alzamna&show_icons=true&theme=radical)
