@@ -13,5 +13,4 @@
 ---
 
 ![Alzamna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alzamna&show_icons=true&theme=radical)
-![Mario gif](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
 
