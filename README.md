@@ -36,3 +36,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Alzamna&theme=tokyonight&hide_border=false" alt="Alzamna's GitHub streak" />
 </p>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Alzamna/Alzamna/blob/output/github-contribution-grid-snake.svg)
+
