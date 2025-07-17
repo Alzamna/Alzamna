@@ -31,12 +31,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alzamna&show_icons=true&theme=tokyonight" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alzamna&theme=tokyonight" width="45%"/>
+  <img src="https://streak-stats.demolab.com?user=Alzamna&theme=tokyonight&hide_border=false" alt="Alzamna's GitHub streak" />
 </p>
 
 ---
-
-### 🎮 Fun Fact
-> I love to explore YouTube, learn about cybersecurity, and listen to music while coding 🎧
-
