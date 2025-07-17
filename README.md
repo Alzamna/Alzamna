@@ -31,8 +31,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alzamna&theme=tokyonight" width="45%"/>
   <img src="https://streak-stats.demolab.com?user=Alzamna&theme=tokyonight&hide_border=false" alt="Alzamna's GitHub streak" />
 </p>
-
----
