@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning: **Network Security, Python Cryptography, Firebase**
 - 👯 I’m open to collaborate on: **Web, IoT, or Security projects**
 - 💬 Ask me about: `Laravel`, `IoT`, `Cybersecurity`, or `UI/UX`
-- 📫 Reach me via: [Email](mailto:zamna@example.com) | [LinkedIn](https://linkedin.com/in/namamu) | [Instagram](https://instagram.com/namamu)
+- 📫 Reach me via: [Email](mailto:alzamna195@example.com) | [Instagram](https://instagram.com/alzheimrss)
 
 ---
 
@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zamna16&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zamna16&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alzamna&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alzamna&theme=tokyonight" width="45%"/>
 </p>
 
 ---
