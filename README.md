@@ -1,16 +1,42 @@
-# 👋 Hi, I'm Alzamna!
+<h1 align="center">Hi 👋, I'm Alzamna</h1>
+<h3 align="center">A passionate tech enthusiast and aspiring fullstack developer from Indonesia 🇮🇩</h3>
 
-## 🚀 About Me
-- 🎓 Student passionate about web programming and technology.
-- 💻 Skilled in **Laravel** (PHP) and **Python** for web development.
-- 🌱 tryna get better
-
-## 🛠️ Tech Stack
-- **Languages:** PHP, Python, JavaScript
-- **Frameworks:** Laravel, Flask
-- **Tools:** Git, VS Code, Postman
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=400&lines=Welcome+to+my+GitHub!;I+love+coding+and+learning+new+things!;" alt="Typing SVG" />
+</p>
 
 ---
 
-![Alzamna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alzamna&show_icons=true&theme=radical)
+### 💡 About Me
+
+- 🔭 I’m currently working on: **IoT project with ESP32 & Laravel web app**
+- 🌱 I’m currently learning: **Network Security, Python Cryptography, Firebase**
+- 👯 I’m open to collaborate on: **Web, IoT, or Security projects**
+- 💬 Ask me about: `Laravel`, `IoT`, `Cybersecurity`, or `UI/UX`
+- 📫 Reach me via: [Email](mailto:zamna@example.com) | [LinkedIn](https://linkedin.com/in/namamu) | [Instagram](https://instagram.com/namamu)
+
+---
+
+### 🛠️ Tech Stack
+
+![Laravel](https://img.shields.io/badge/-Laravel-E34F26?logo=laravel&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![ESP32](https://img.shields.io/badge/-ESP32-007ACC?logo=arduino&logoColor=white&style=flat)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zamna16&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zamna16&theme=tokyonight" width="45%"/>
+</p>
+
+---
+
+### 🎮 Fun Fact
+> I love to explore YouTube, learn about cybersecurity, and listen to music while coding 🎧
 
