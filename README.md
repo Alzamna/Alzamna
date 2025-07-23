@@ -18,7 +18,7 @@
 
 ## Connect with Me!
 
-<p align="center">
+<p align="start">
   <a href="mailto:alzamna195@gmail.com" target="_blank">
     <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="Gmail" height="40" width="40" />
   </a>
