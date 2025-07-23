@@ -4,9 +4,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alzamna&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=Alzamna&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alzamna&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alzamna&theme=tokyonight&utcOffset=7" />
 </p>
 
 
