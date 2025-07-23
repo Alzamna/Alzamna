@@ -7,7 +7,12 @@
   <img src="https://streak-stats.demolab.com?user=Alzamna&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alzamna&layout=compact&theme=tokyonight" width="400" />
+   <marquee behavior="scroll" direction="left" scrollamount="5">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alzamna&theme=tokyonight&utcOffset=7" width="400" />
+  </marquee>
+
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alzamna&theme=tokyonight&utcOffset=7" width="400" />
+ -->
 </p>
 
 ---
@@ -26,8 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Virtualbox_logo.png" height="40" alt="virtualbox logo" />
-  <img src="https://laragon.org/img/laragon-logo.png" height="40" alt="laragon logo" />
+  <img src="https://raw.githubusercontent.com/Alzamna/nama-repo-kamu/main/assets/icons/virtualbox.png" height="40" alt="virtualbox logo" />
+  <img src="https://raw.githubusercontent.com/Alzamna/nama-repo-kamu/main/assets/icons/laragon.png" height="40" alt="laragon logo" />
   <img src="https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/espressif-logo.svg" height="40" alt="esp-idf logo" />
 </p>
 
