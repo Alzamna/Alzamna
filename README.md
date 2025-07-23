@@ -10,8 +10,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Alzamna&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alzamna&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alzamna&theme=tokyonight&utcOffset=7" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alzamna&theme=tokyonight&hide_border=false" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alzamna&theme=tokyonight&utcOffset=7&hide_border=false" />
 </p>
 
 ---
