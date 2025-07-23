@@ -2,18 +2,12 @@
 <h3 align="center">A passionate tech enthusiast and aspiring fullstack developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=400&lines=Welcome+to+my+GitHub!;I+love+coding+and+learning+new+things!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=400&lines=Welcome+to+my+GitHub!;I+love+learning+new+things!;" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💡 About Me
-
-- 🔭 I’m currently working on: **IoT project with ESP32 & Laravel web app**
-- 🌱 I’m currently learning: **Network Security, Python Cryptography, Firebase**
-- 👯 I’m open to collaborate on: **Web, IoT, or Security projects**
-- 💬 Ask me about: `Laravel`, `IoT`, `Cybersecurity`, or `UI/UX`
-- 📫 Reach me via: [Email](mailto:alzamna195@example.com) | [Instagram](https://instagram.com/alzheimrss)
+[Email](mailto:alzamna195@example.com) | [Instagram](https://instagram.com/alzheimrss)
 
 ---
 
@@ -36,8 +30,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Alzamna&theme=tokyonight&hide_border=false" alt="Alzamna's GitHub streak" />
 </p>
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Alzamna/Alzamna/blob/output/github-contribution-grid-snake.svg)
-
