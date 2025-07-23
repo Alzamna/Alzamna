@@ -16,22 +16,12 @@
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=Alzamna&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <!-- Profile Details Card -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alzamna&theme=tokyonight" alt="GitHub Profile Details" />
-</p>
-
-<p align="center">
-  <!-- Repo Language & Most Commit Language Cards -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alzamna&theme=tokyonight" alt="Top Languages by Repo" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alzamna&theme=tokyonight" alt="Top Languages by Commit" />
-</p>
-
-<p align="center">
-  <!-- Commit Stats & Productive Time Cards -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alzamna&theme=tokyonight" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alzamna&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+  <img src="https://streak-stats.demolab.com?user=Alzamna&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alzamna&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alzamna&layout=compact&theme=tokyonight" />
 </p>
 
 
