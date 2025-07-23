@@ -7,26 +7,15 @@
 
 ---
 
-[Email](mailto:alzamna195@example.com) | [Instagram](https://instagram.com/alzheimrss)
+## Connect with Me!
+
+<a href="mailto:alzamna195@gmail.com" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="Gmail" height="50" width="45" /></a> <a href="https://www.instagram.com/alzheimrss" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png" alt="Instagram" height="50" width="45" /></a>
 
 ---
-
-### 🛠️ Tech Stack
-
-![Laravel](https://img.shields.io/badge/-Laravel-E34F26?logo=laravel&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![ESP32](https://img.shields.io/badge/-ESP32-007ACC?logo=arduino&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-
-
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Alzamna&theme=tokyonight&hide_border=false" alt="Alzamna's GitHub streak" />
 </p>
+| <img align="center" width="295px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alzamna&theme=tokyonight" alt="Alzamna's Most Used Language">
+
+
