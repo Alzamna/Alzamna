@@ -16,13 +16,12 @@
 
 ---
 
-## 🌐 Connect with Me!
+## Connect with Me!
 
 <p align="center">
   <a href="mailto:alzamna195@gmail.com" target="_blank">
     <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="Gmail" height="40" width="40" />
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/alzheimrss" target="_blank">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png" alt="Instagram" height="40" width="40" />
   </a>
