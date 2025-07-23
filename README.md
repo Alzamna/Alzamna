@@ -10,9 +10,6 @@
    <marquee behavior="scroll" direction="left" scrollamount="5">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alzamna&theme=tokyonight&utcOffset=7" width="400" />
   </marquee>
-
-<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alzamna&theme=tokyonight&utcOffset=7" width="400" />
- -->
 </p>
 
 ---
@@ -31,7 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://raw.githubusercontent.com/Alzamna/nama-repo-kamu/main/assets/icons/Virtualbox_logo.png" height="40" alt="virtualbox logo" />
   <img src="https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/espressif-logo.svg" height="40" alt="esp-idf logo" />
 </p>
 
