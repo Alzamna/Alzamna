@@ -6,8 +6,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Alzamna&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alzamna&layout=compact&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alzamna&theme=tokyonight&utcOffset=7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alzamna&layout=compact&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alzamna&theme=tokyonight&utcOffset=7" width="400" />
 </p>
 
 
