@@ -4,26 +4,11 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alzamna&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alzamna&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alzamna&theme=tokyonight&utcOffset=7" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Alzamna&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Alzamna&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Alzamna&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alzamna&layout=compact&theme=tokyonight" />
-</p>
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alzamna&theme=tokyonight&utcOffset=7" style="border: 2px solid white;" />
+  </p>
 
 ---
 
