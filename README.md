@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://raw.githubusercontent.com/Alzamna/nama-repo-kamu/main/assets/icons/virtualbox_logo.png" height="40" alt="virtualbox logo" />
+  <img src="https://raw.githubusercontent.com/Alzamna/nama-repo-kamu/main/assets/icons/Virtualbox_logo.png" height="40" alt="virtualbox logo" />
   <img src="https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/espressif-logo.svg" height="40" alt="esp-idf logo" />
 </p>
 
