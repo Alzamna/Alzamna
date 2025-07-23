@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alzamna</h1>
-<h3 align="center">A passionate tech enthusiast and aspiring fullstack developer from Indonesia 🇮🇩</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=400&lines=Welcome+to+my+GitHub!;I+love+learning+new+things!" alt="Typing SVG" />
-</p>
+<h3 align="center">An IT student and tech enthusiast</h3>
 
 ---
 
