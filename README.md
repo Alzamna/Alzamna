@@ -26,6 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Virtualbox_logo.png" height="40" alt="virtualbox logo" />
+  <img src="https://laragon.org/img/laragon-logo.png" height="40" alt="laragon logo" />
+  <img src="https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/espressif-logo.svg" height="40" alt="esp-idf logo" />
 </p>
 
 ### Frameworks & Libraries
