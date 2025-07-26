@@ -51,8 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/C/coreldraw-logo-157B77E0B4-seeklogo.com.png" alt="CorelDRAW Logo" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/CorelDRAW_X7_Icon.svg" alt="CorelDRAW SVG Logo" width="40" height="40"/>
+  <img src="https://i.imgur.com/KRwIakP.png" alt="CorelDRAW Logo" width="40" height="40"/>
 </p>
 
 ## Connect with Me!
