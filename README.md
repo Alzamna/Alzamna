@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Alzamna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alzamna&layout=compact&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alzamna&layout=compact&theme=tokyonight&hide_border=true" width="400" />
    <marquee behavior="scroll" direction="left" scrollamount="5">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alzamna&theme=tokyonight&utcOffset=7" width="400" />
   </marquee>
