@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alzamna)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alzamna&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
     <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alzamna&layout=compact&theme=tokyonight" width="400" />
    <marquee behavior="scroll" direction="left" scrollamount="5">
